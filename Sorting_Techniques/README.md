@@ -6,7 +6,7 @@ This directory contains implementations and comparisons of various sorting techn
 
 ### Bubble Sort
 Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.
-<img src="https://github.com/sameldone/Algorithms-and-Data-Structures/blob/main/Sorting_Techniques/images/BubbleSort.gif" alt="Bubble Sort Image" width="100" height="50">
+<img src="https://github.com/sameldone/Algorithms-and-Data-Structures/blob/main/Sorting_Techniques/images/BubbleSort.gif" alt="Bubble Sort Image" width="200" height="100">
 
 ### Insertion Sort
 Insertion sort is a simple sorting algorithm that builds the final sorted list one item at a time by repeatedly picking the next item and inserting it into the sorted portion of the list.

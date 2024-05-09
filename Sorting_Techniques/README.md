@@ -10,9 +10,10 @@ Bubble sort is a simple sorting algorithm that repeatedly steps through the list
 
 ### Insertion Sort
 Insertion sort is a simple sorting algorithm that builds the final sorted list one item at a time by repeatedly picking the next item and inserting it into the sorted portion of the list.<br>
-<img src="https://github.com/sameldone/Algorithms-and-Data-Structures/blob/main/Sorting_Techniques/images/InsertionSort.gif" alt="Bubble Sort Image" width="200" height="100">
+<img src="https://github.com/sameldone/Algorithms-and-Data-Structures/blob/main/Sorting_Techniques/images/InsertionSort.gif" alt="Insertion Sort Image" width="200" height="100">
 ### Selection Sort
 Selection sort is a simple sorting algorithm that repeatedly finds the minimum element from the unsorted part of the array and puts it at the beginning.
+<img src="https://github.com/sameldone/Algorithms-and-Data-Structures/blob/main/Sorting_Techniques/images/SelectionSort.gif" alt="Selection Sort gif" width="200" height="100">
 
 ### Quick Sort
 Quick sort is a divide-and-conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot.

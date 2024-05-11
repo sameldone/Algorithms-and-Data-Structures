@@ -1,6 +1,8 @@
 # Algorithms and Data Structures Learning Repository
 
-Welcome to my repository for learning algorithms and data structures! This repository serves as a space where I explore and implement various algorithms and data structures to deepen my understanding of fundamental concepts in computer science.
+Welcome to my repository for learning algorithms and data structures! This repository serves as a space where I explore and implement various algorithms and data structures to deepen my understanding of fundamental concepts in computer science.<br>
+
+<img src="https://github.com/sameldone/Algorithms-and-Data-Structures/blob/main/images/the-algorithm.gif" alt="The Algorithm" width="200" height="100">
 
 ## Purpose
 
